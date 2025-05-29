@@ -1,0 +1,33 @@
+# Build artifacts
+bin/
+obj/
+out/
+
+# VS Code and Visual Studio settings
+.vscode/
+.vs/
+*.user
+*.suo
+*.cache
+*.pdb
+
+# ASP.NET Core files
+*.log
+wwwroot/
+
+# Dependencies and Packages
+packages/
+node_modules/
+
+# Resharper and Rider files
+*.sln.DotSettings
+*.sln.DotSettings.user
+
+# Configuration files
+appsettings*.json
+secrets.json
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
